@@ -1,0 +1,8 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --list ki?m tra tr? d?n chua
+git remote add origin https://github.com/minhtuan142001/python.git 
+git remote --v
+git add.
+git commit -m "push bai"
+git push orgin master
